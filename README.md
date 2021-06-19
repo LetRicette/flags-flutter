@@ -2,7 +2,7 @@
 
 ######                                  Raro Academy - Flutter
 
-<img src="D:\workspace\Raro\bandeira\lib\201516564_227437838978997_7046109603674272177_n.png" alt="201516564_227437838978997_7046109603674272177_n" style="zoom: 50%;" />
+<img src="\201516564_227437838978997_7046109603674272177_n.png" alt="Android emulator with aplication" style="zoom: 50%;" />
 
 LevelUp1 - Fazer a bandeira do Japão e uma bandeira extra utilizando os Widgets aprendidos na primeira semana de aula:
 
